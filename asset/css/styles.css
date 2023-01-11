@@ -7,6 +7,10 @@ body {
     font-weight: 500;
 }
 
+a {
+    color: rgba(5, 5, 5, 0.923);
+}
+
 
 /* menu */
 .nav-link {
@@ -21,6 +25,10 @@ body {
 
 /* text */
 .text-grey {
+    color: #8d99af !important;
+}
+
+.hover-grey:hover {
     color: #8d99af !important;
 }
 
@@ -66,14 +74,39 @@ body {
     color: rgb(141, 153, 175) !important;
 }
 
+/* padding */
+.py-10p {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 /* border-radius___________ */
 .rounded-20 {
     border-radius: 20px;
 }
 
+.rounded-top-8 {
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.rounded-top-none {
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
+
 /* bg */
 .bg-banner {
     background-image: url(../img/banner-bg.jpg);
+}
+
+.bg-dark-blue {
+    background-color: #2b2d42;
+}
+
+.bg-grey {
+    background-color: #8d99af;
+
 }
 
 /* font-size */
@@ -89,6 +122,25 @@ body {
 /* gap */
 .g-10 {
     gap: 10px;
+}
+
+.g-1 {
+    gap: 1px;
+}
+
+
+/* * */
+.before-bt {
+    position: relative;
+}
+
+.before-bt::before {
+    position: absolute;
+    content: "";
+    top: 0;
+    left: 0;
+    right: 0;
+    border-top: 1px solid #2b2d42;
 }
 
 /* formularios */
@@ -133,6 +185,50 @@ body {
 
 .items-icon:hover .square-icon {
     background-color: #2b2d42 !important;
+}
+
+.menu-home {
+    background-color: #2b2d42;
+    border-radius: 8px;
+    /* padding-bottom: 50px; */
+    /* padding: 30px; */
+}
+
+.card-carrousel {
+    width: 100%;
+    border-radius: 8px;
+    background-color: #f7f7f7;
+
+}
+
+.circle-eti {
+    position: relative;
+    width: 35px;
+    height: 35px;
+    background-color: #8d99af;
+    border-radius: 50%;
+    object-fit: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.owl-dots {
+    margin-top: 50px !important;
+}
+
+.owl-dots .owl-dot span {
+    transition: .5s;
+    background-color: #8d99af !important;
+    /* opacity: 1; */
+}
+
+.owl-dots .owl-dot.active span {
+    width: 14px;
+    height: 14px;
+    border-radius: 50%;
+    background-color: #8d99af;
 }
 
 

@@ -6,7 +6,7 @@
 
     /* menu */
     .nav-link {
-        color: white !important;
+        /* color: white !important; */
     }
 
     /*  */
@@ -28,6 +28,8 @@
     .bg-md-transparent {
         background-color: transparent !important;
     }
+
+    /*  */
 
     /*  */
     .gap-20 {
@@ -80,11 +82,30 @@
         height: 60px;
     }
 
+    .rounded-md-left {
+        border-top-left-radius: 8px;
+        border-top-right-radius: 0px;
+        border-bottom-left-radius: 8px;
+        border-bottom-right-radius: 0px !important;
+    }
+
+    .rounded-md-right {
+        border-top-left-radius: 0px;
+        border-top-right-radius: 8px !important;
+        border-bottom-left-radius: 0px;
+        border-bottom-right-radius: 8px;
+    }
+
+    .menu-home {
+        padding-bottom: 50px;
+    }
+
     /*  */
-    .md-stacky {
+    /* .md-stacky {
         position: sticky;
         top: 0;
-    }
+        z-index: 1;
+    } */
 }
 
 
