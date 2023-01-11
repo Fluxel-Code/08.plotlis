@@ -1,0 +1,649 @@
+@media screen and (min-width:576px) {
+
+    /* ?width */
+    .w-sm-25 {
+        width: 25% !important;
+    }
+
+    .w-sm-50 {
+        width: 50%;
+    }
+
+    .w-sm-75 {
+        width: 75%;
+    }
+
+    .w-sm-100 {
+        width: 100%;
+    }
+
+    /*? height */
+
+    .h-sm-25 {
+        height: 25%;
+    }
+
+    .h-sm-50 {
+        height: 50%;
+    }
+
+    .h-sm-75 {
+        height: 75%;
+    }
+
+    .h-sm-100 {
+        height: 100%;
+    }
+
+
+    /*? font-size */
+    .fs-sm-18 {
+        font-size: 18px;
+    }
+
+    .fs-sm-20 {
+        font-size: 20px;
+    }
+
+    .fs-sm-26 {
+        font-size: 26px;
+    }
+
+    .fs-sm-30 {
+        font-size: 30px;
+    }
+
+    .fs-sm-35 {
+        font-size: 35px;
+    }
+
+    .fs-sm-40 {
+        font-size: 40px;
+    }
+
+    .fs-sm-45 {
+        font-size: 45px;
+    }
+
+    .fs-sm-50 {
+        font-size: 50px;
+    }
+
+    .fs-sm-55 {
+        font-size: 55px;
+    }
+
+    .fs-sm-60 {
+        font-size: 60px;
+    }
+
+    /*? font-weight */
+    .font-weight-sm-100 {
+        font-weight: 100;
+    }
+
+    .font-weight-sm-200 {
+        font-weight: 200;
+    }
+
+    .font-weight-sm-300 {
+        font-weight: 300;
+    }
+
+    .font-weight-sm-400 {
+        font-weight: 400;
+    }
+
+    .font-weight-sm-500 {
+        font-weight: 500;
+    }
+
+    .font-weight-sm-600 {
+        font-weight: 600;
+    }
+
+    .font-weight-sm-700 {
+        font-weight: 700;
+    }
+
+    .font-weight-sm-800 {
+        font-weight: 800;
+    }
+
+    .font-weight-sm-900 {
+        font-weight: 900;
+    }
+
+    /* ?padding */
+
+    .p-sm-30 {
+        padding: 30px;
+    }
+
+
+    .p-sm-50 {
+        padding: 50px;
+    }
+
+    .pt-sm-100 {
+        padding-top: 100px;
+    }
+
+    .pt-sm-50 {
+        padding-top: 50px;
+    }
+
+    .pb-sm-100 {
+        padding-bottom: 100px;
+    }
+
+    .pb-sm-50 {
+        padding-bottom: 50px;
+    }
+
+    /* ? margin */
+
+    .mt-sm-100 {
+        margin-top: 100px;
+    }
+
+    .mt-sm-50 {
+        margin-top: 50px;
+    }
+
+    .mb-100 {
+        margin-bottom: 100px;
+    }
+
+    .mb-50 {
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (min-width:768px) {
+
+    /*?width */
+    .w-md-25 {
+        width: 25% !important;
+    }
+
+    .w-md-50 {
+        width: 50%;
+    }
+
+    .w-md-75 {
+        width: 75%;
+    }
+
+    .w-md-100 {
+        width: 100%;
+    }
+
+    /* height */
+
+    .h-md-25 {
+        height: 25%;
+    }
+
+    .h-md-50 {
+        height: 50%;
+    }
+
+    .h-md-75 {
+        height: 75%;
+    }
+
+    .h-md-100 {
+        height: 100%;
+    }
+
+    .h-md-125 {
+        height: 125vh;
+    }
+
+    /* ?font-size */
+
+
+    .fs-md-18 {
+        font-size: 18px;
+    }
+
+    .fs-md-29 {
+        font-size: 29px;
+    }
+
+    .fs-md-20 {
+        font-size: 20px;
+    }
+
+    .fs-md-26 {
+        font-size: 26px;
+    }
+
+    .fs-md-30 {
+        font-size: 30px;
+    }
+
+    .fs-md-35 {
+        font-size: 35px;
+    }
+
+    .fs-md-40 {
+        font-size: 40px;
+    }
+
+    .fs-md-45 {
+        font-size: 45px;
+    }
+
+    .fs-md-50 {
+        font-size: 50px;
+    }
+
+    /*? font-weight */
+    .font-weight-md-100 {
+        font-weight: 100;
+    }
+
+    .font-weight-md-200 {
+        font-weight: 200;
+    }
+
+    .font-weight-md-300 {
+        font-weight: 300;
+    }
+
+    .font-weight-md-400 {
+        font-weight: 400;
+    }
+
+    .font-weight-md-500 {
+        font-weight: 500;
+    }
+
+    .font-weight-md-600 {
+        font-weight: 600;
+    }
+
+    .font-weight-md-700 {
+        font-weight: 700;
+    }
+
+    .font-weight-md-800 {
+        font-weight: 800;
+    }
+
+    .font-weight-md-900 {
+        font-weight: 900;
+    }
+
+    /* ?padding */
+    .p-md-30 {
+        padding: 30px;
+    }
+
+
+    .p-md-50 {
+        padding: 50px;
+    }
+
+    .pt-md-100 {
+        padding-top: 100px !important;
+    }
+
+    .pt-md-50 {
+        padding-top: 50px;
+    }
+
+    .pb-md-100 {
+        padding-bottom: 100px !important;
+    }
+
+    .pb-md-50 {
+        padding-bottom: 50px;
+    }
+
+    /* ?margin */
+
+    .mt-md-100 {
+        margin-top: 100px;
+    }
+
+    .mt-md-50 {
+        margin-top: 50px;
+    }
+
+    .mb-md-100 {
+        margin-bottom: 100px;
+    }
+
+    .mb-md-50 {
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (min-width:992px) {
+
+    /*?width */
+    .w-lg-25 {
+        width: 25%;
+    }
+
+    .w-lg-50 {
+        width: 50%;
+    }
+
+    .w-lg-75 {
+        width: 75%;
+    }
+
+    .w-lg-100 {
+        width: 100%;
+    }
+
+    /* ?height */
+
+    .h-lg-25 {
+        height: 25%;
+    }
+
+    .h-lg-50 {
+        height: 50%;
+    }
+
+    .h-lg-75 {
+        height: 75%;
+    }
+
+    .h-lg-100 {
+        height: 100%;
+    }
+
+    /* ?font-size */
+    .fs-lg-18 {
+        font-size: 18px;
+    }
+
+    .fs-lg-31 {
+        font-size: 31px;
+    }
+
+    .fs-lg-20 {
+        font-size: 20px;
+    }
+
+    .fs-lg-26 {
+        font-size: 26px;
+    }
+
+    .fs-lg-30 {
+        font-size: 30px;
+    }
+
+    .fs-lg-35 {
+        font-size: 35px;
+    }
+
+    .fs-lg-40 {
+        font-size: 40px;
+    }
+
+    .fs-lg-45 {
+        font-size: 45px;
+    }
+
+    .fs-lg-50 {
+        font-size: 50px;
+    }
+
+    .fs-lg-60 {
+        font-size: 60px;
+    }
+
+    /*? font-weight */
+    .font-weight-lg-100 {
+        font-weight: 100;
+    }
+
+    .font-weight-lg-200 {
+        font-weight: 200;
+    }
+
+    .font-weight-lg-300 {
+        font-weight: 300;
+    }
+
+    .font-weight-lg-400 {
+        font-weight: 400;
+    }
+
+    .font-weight-lg-500 {
+        font-weight: 500;
+    }
+
+    .font-weight-lg-600 {
+        font-weight: 600;
+    }
+
+    .font-weight-lg-700 {
+        font-weight: 700;
+    }
+
+    .font-weight-lg-800 {
+        font-weight: 800;
+    }
+
+    .font-weight-lg-900 {
+        font-weight: 900;
+    }
+
+    /* ?padding */
+    .p-lg-30 {
+        padding: 30px;
+    }
+
+    .p-lg-50 {
+        padding: 50px;
+    }
+
+    .pt-lg-100 {
+        padding-top: 100px;
+    }
+
+    .pt-lg-50 {
+        padding-top: 50px;
+    }
+
+    .pb-lg-100 {
+        padding-bottom: 100px;
+    }
+
+    .pb-lg-50 {
+        padding-bottom: 50px;
+    }
+
+    /* ? margin */
+
+    .mt-lg-100 {
+        margin-top: 100px;
+    }
+
+    .mt-lg-50 {
+        margin-top: 50px;
+    }
+
+    .mb-lg-100 {
+        margin-bottom: 100px;
+    }
+
+    .mb-lg-100 {
+        margin-bottom: 50px;
+    }
+}
+
+@media screen and (min-width:1200px) {
+
+    /*?width */
+    .w-xl-25 {
+        width: 25%;
+    }
+
+    .w-xl-50 {
+        width: 50%;
+    }
+
+    .w-xl-75 {
+        width: 75%;
+    }
+
+    .w-xl-100 {
+        width: 100%;
+    }
+
+    /*?height */
+
+    .h-xl-25 {
+        height: 25%;
+    }
+
+    .h-xl-50 {
+        height: 50%;
+    }
+
+    .h-xl-75 {
+        height: 75%;
+    }
+
+    .h-xl-100 {
+        height: 100%;
+    }
+
+    .h-xl-150vh {
+        height: 150vh;
+    }
+
+    /* ?font-size */
+
+    .fs-xl-18 {
+        font-size: 18px;
+    }
+
+    .fs-xl-33 {
+        font-size: 33px;
+    }
+
+    .fs-xl-20 {
+        font-size: 20px;
+    }
+
+    .fs-xl-26 {
+        font-size: 26px;
+    }
+
+    .fs-xl-30 {
+        font-size: 30px;
+    }
+
+    .fs-xl-35 {
+        font-size: 35px;
+    }
+
+    .fs-xl-40 {
+        font-size: 40px;
+    }
+
+    .fs-xl-45 {
+        font-size: 45px;
+    }
+
+    .fs-xl-50 {
+        font-size: 50px;
+    }
+
+    .fs-xl-70 {
+        font-size: 70px;
+    }
+
+    /*? font-weight */
+    .font-weight-xl-100 {
+        font-weight: 100;
+    }
+
+    .font-weight-xl-200 {
+        font-weight: 200;
+    }
+
+    .font-weight-xl-300 {
+        font-weight: 300;
+    }
+
+    .font-weight-xl-400 {
+        font-weight: 400;
+    }
+
+    .font-weight-xl-500 {
+        font-weight: 500;
+    }
+
+    .font-weight-xl-600 {
+        font-weight: 600;
+    }
+
+    .font-weight-xl-700 {
+        font-weight: 700;
+    }
+
+    .font-weight-xl-800 {
+        font-weight: 800;
+    }
+
+    .font-weight-xl-900 {
+        font-weight: 900;
+    }
+
+    /* ?padding */
+
+    .p-xl-30 {
+        padding: 30px;
+    }
+
+
+    .p-xl-50 {
+        padding: 50px;
+    }
+
+    .pt-xl-100 {
+        padding-top: 100px;
+    }
+
+    .pt-xl-50 {
+        padding-top: 50px;
+    }
+
+    .pb-xl-100 {
+        padding-bottom: 100px;
+    }
+
+    .pb-xl-50 {
+        padding-bottom: 50px;
+    }
+
+    /* ?margin */
+
+    .mt-xl-100 {
+        margin-top: 100px;
+    }
+
+    .mt-xl-50 {
+        margin-top: 50px;
+    }
+
+    .mb-xl-100 {
+        margin-bottom: 100px;
+    }
+
+    .mb-xl-50 {
+        margin-bottom: 50px;
+    }
+
+}

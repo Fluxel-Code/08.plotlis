@@ -1,0 +1,95 @@
+/* ?sm */
+@media screen and (min-width:576px) {}
+
+/* ?md */
+@media screen and (min-width:768px) {
+
+    /* menu */
+    .nav-link {
+        color: white !important;
+    }
+
+    /*  */
+    .b-md-none {
+        border: none;
+    }
+
+    .bb-md-white {
+        border-bottom: 1px solid rgb(238, 238, 238);
+    }
+
+
+    /*  */
+    .rounded-md-none {
+        /* border-radius: 0; */
+    }
+
+    /* bg */
+    .bg-md-transparent {
+        background-color: transparent !important;
+    }
+
+    /*  */
+    .gap-20 {
+        gap: 20px;
+    }
+
+    .g-md-45 {
+        gap: 45px;
+    }
+
+    /*  */
+    .form-select {
+        height: 100%;
+        border: none;
+        position: relative;
+    }
+
+    .btn-grey {
+        border-top-left-radius: 0 !important;
+        border-bottom-left-radius: 0 !important;
+    }
+
+
+    .band-grey {
+        position: relative;
+    }
+
+    .band-grey::after {
+        position: absolute;
+        content: "";
+        border-right: 1px solid #8d99af;
+        width: 1px;
+        height: 100%;
+        top: 0;
+        right: 0;
+    }
+
+    .band-grey::before {
+        position: absolute;
+        content: "";
+        border-left: 1px solid #8d99af;
+        width: 1px;
+        height: 100%;
+        top: 0;
+        left: 0;
+    }
+
+    .square-icon {
+        width: 60px;
+        height: 60px;
+    }
+
+    /*  */
+    .md-stacky {
+        position: sticky;
+        top: 0;
+    }
+}
+
+
+/* ?lg */
+@media screen and (min-width:992px) {}
+
+/* ?xl */
+@media screen and (min-width:1200px) {}

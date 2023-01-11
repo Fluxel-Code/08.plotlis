@@ -1,0 +1,188 @@
+body {
+    scroll-behavior: smooth;
+}
+
+
+.b-red {
+    border: 1px solid red;
+}
+
+.b-none {
+    border: none;
+}
+
+/* *background */
+
+.bg-config {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/* *btn */
+
+
+/* * padding */
+
+.p-30 {
+    padding: 30px;
+}
+
+
+.p-50 {
+    padding: 50px;
+}
+
+.pt-100 {
+    padding-top: 100px;
+}
+
+.pt-50 {
+    padding-top: 50px;
+}
+
+.pb-100 {
+    padding-bottom: 100px;
+}
+
+.pb-50 {
+    padding-bottom: 50px;
+}
+
+/* * margin */
+
+.mt-100 {
+    margin-top: 100px;
+}
+
+.mt-50 {
+    margin-top: 50px;
+}
+
+.mb-100 {
+    margin-bottom: 100px;
+}
+
+.mb-50 {
+    margin-bottom: 50px;
+}
+
+/* * font-size */
+
+.fs-17 {
+    font-size: 17px;
+}
+
+.fs-19 {
+    font-size: 19px;
+}
+
+.fs-20 {
+    font-size: 20px
+}
+
+.fs-26 {
+    font-size: 26px;
+}
+
+.fs-30 {
+    font-size: 30px;
+}
+
+.fs-41 {
+    font-size: 41px;
+}
+
+/* *font-weight */
+.font-weight-100 {
+    font-weight: 100;
+}
+
+.font-weight-200 {
+    font-weight: 200;
+}
+
+.font-weight-300 {
+    font-weight: 300;
+}
+
+.font-weight-400 {
+    font-weight: 400;
+}
+
+.font-weight-500 {
+    font-weight: 500;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.font-weight-700 {
+    font-weight: 700;
+}
+
+.font-weight-800 {
+    font-weight: 800;
+}
+
+.font-weight-900 {
+    font-weight: 900;
+}
+
+.o-hidden {
+    overflow: hidden;
+}
+
+.object-cover {
+    object-fit: cover;
+}
+
+
+/* *clases especiales*/
+
+.header {
+    padding-top: 20px;
+    padding-bottom: 15px;
+}
+
+.navbar-item {
+    margin-left: 12px;
+    margin-right: 12px;
+}
+
+.square-icon {
+    height: 40px;
+    width: 40px;
+    display: block;
+    text-decoration: none;
+    color: #6c757d;
+}
+
+.form-contact {
+    background-color: transparent !important;
+    border: inherit;
+    width: 100%;
+    height: 45px;
+    font-size: 18px;
+    color: #fff;
+    border-bottom: 1px solid #fff;
+    margin-bottom: 26px;
+    font-weight: 500;
+}
+
+.form-contact:focus {
+    background-color: transparent;
+    box-shadow: 0 0 0 0.2rem transparent;
+    border-bottom: 1px solid #fff;
+    color: #fff;
+}
+
+
+
+/* *text-color */
+
+/* *line-height */
+
+
+/* *border-radius */
